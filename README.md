@@ -159,16 +159,3 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 
 This project is licensed under the [MIT License](./LICENSE).
 
-
-  <!-- Cotributors -->
-<div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
-</div>
-
-Thank you for contributing to our project! We appreciate your help in making Flipkart_Clone even better.😃
-
-<center>
-<a href="https://github.com/arghadipmanna101/Flipkart_Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arghadipmanna101/Flipkart_Clone" />
-</a>
-</center>
